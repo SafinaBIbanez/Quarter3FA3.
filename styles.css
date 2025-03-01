@@ -1,0 +1,61 @@
+﻿body 
+{
+    font-family: 'Times New Roman', serif;
+    text-align: center;
+    background-image: url(images/bg.jpg);
+    background-repeat: repeat;
+    background-size: 500px 500px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+hr
+{
+    color: black;
+}
+.blep 
+{
+    margin: 50px auto;
+    padding: 20px;
+    background: BurlyWood;
+    border-radius: 10px;
+    width: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.blep2
+{
+    padding: 15px;
+    background: CornflowerBlue;
+    border-radius: 20px;
+    width: 20%;
+    display:inline-block
+}
+
+.blep3
+{
+    padding: 15px;
+    background: FireBrick;
+    border-radius: 20px;
+    width: 20%;
+    display:inline-block;
+}
+
+
+.blep4
+{
+    padding: 15px;
+    background: OliveDrab;
+    border-radius: 20px;
+    width: 20%;
+    display:inline-block
+}
+
+.thedatablep
+{
+    margin: 20px auto;
+    padding: 20px;
+    background: bisque;
+    border-radius: 10px;
+    width: 50%;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
